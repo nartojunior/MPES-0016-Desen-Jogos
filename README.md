@@ -1,2 +1,2 @@
 # MPES-0016-Desen-Jogos
-Jogo para a disciplina de desenvolvimento de jogos.
+Trabalho para a Disciplina de Desenvolvimento de Jogos
